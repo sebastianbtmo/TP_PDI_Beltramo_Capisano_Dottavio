@@ -11,6 +11,12 @@
 - Dentro de la carpeta del repositorio, crear un entorno virtual con el comando `python -m venv venv`.
 - Activar el mismo con `.\venv\Scripts\activate`.
 - Instalar las librerias con `pip install`.
+- Para el uso de los scripts el usuario debe de tener descargados los siguientes archivos en `.\TP_PDI_Beltramo_Capisano_Dottavio\` (No se nos permite tener archivos .png en el repositorio):
+ - `Imagen_con_detalles_escondidos.tif`
+ - `grade_sheet_1.png`
+ - `grade_sheet_2.png`
+ - `grade_sheet_3.png`
+ - `grade_sheet_4.png`
 
 ## Uso de los scripts
 
