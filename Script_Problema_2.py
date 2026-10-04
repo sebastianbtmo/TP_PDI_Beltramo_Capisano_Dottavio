@@ -77,7 +77,7 @@ def reconocer_condicion(celda_th, caja):
         return 'L'
     espejo = glifo[:, ::-1]
     simetria = np.sum(glifo & espejo) / np.sum(glifo | espejo)
-    return 'A' if simetria > 0.75 else 'R'
+    return 'A' if simetria > 0.65 else 'R'
 
 
 # Imagen de salida
